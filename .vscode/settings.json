@@ -14,5 +14,6 @@
     "cSpell.words": [
         "codesters",
         "stage"
-    ]
+    ],
+    "git.useEditorAsCommitInput": false
 }
