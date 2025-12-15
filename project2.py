@@ -29,7 +29,7 @@ if answer4 == "A":
     turtle_points -= 9999999
 elif answer4 == "B" :
     turtle_points += 1
- 
+
 answer5 = input("do you like water? A yes, B no")
 if answer5 == "A":
     turtle_points +=1
@@ -38,7 +38,7 @@ elif answer5 == "B":
     cat_points+= 2
 
 answer6 = input("do you like peanut butter A yes B no")
-C
+if answer6 == "A" or answer6 == "a": 
     dog_points+=1
 
 
